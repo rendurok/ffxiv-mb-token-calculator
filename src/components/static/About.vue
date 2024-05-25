@@ -19,6 +19,9 @@
       This tool depends on the Universalis API, so if you're having issues, make
       sure Universalis is not down or blocked.
     </p>
+    <p>
+      <a href="https://github.com/rendurok/ffxiv-mb-token-calculator">Source</a>
+    </p>
   </fieldset>
 </template>
 
