@@ -39,8 +39,9 @@ export function validatePreset(possiblePreset: unknown): ValidationResult {
 }
 
 export function validatePresets(possiblePresets: unknown): ValidationResult {
+  console.log(possiblePresets);
   if (Array.isArray(possiblePresets)) {
-    for (const p in possiblePresets) {
+    for (const p of possiblePresets) {
       const result = validatePresets(p);
       if (!result.success) return { ...result, multiple: true };
     }
