@@ -23,7 +23,9 @@ export async function getListings(itemIds: number[], region: string) {
     .get(
       `${baseUrl}/${region}/${itemIds
         .reduce((s, id) => `${s},${id}`, '')
-        .slice(1)}?entries=0`
+        .slice(
+          1
+        )}?entries=0&fields=items.itemID,items.lastUploadTime,items.listings.lastReviewTime,items.listings.pricePerUnit,items.listings.quantity,items.listings.worldName,items.listings.worldID,items.listings.hq,items.listings.listingID`
     )
     .then((response) =>
       Object.values<UniversalisItemData>(response.data.items).flatMap(
