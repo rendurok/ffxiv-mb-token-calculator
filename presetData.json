@@ -1,0 +1,461 @@
+[
+  {
+    "title": "hannish certificate grade 3 (diadochos)",
+    "items": [
+      {
+        "itemID": 39630,
+        "name": "Diadochos Sword",
+        "tokensNQ": 3,
+        "tokensHQ": 10
+      },
+      {
+        "itemID": 39631,
+        "name": "Diadochos Knuckles",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39632,
+        "name": "Diadochos War Axe",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39633,
+        "name": "Diadochos Spear",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39634,
+        "name": "Diadochos Compound Bow",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39635,
+        "name": "Diadochos Main Gauches",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39636,
+        "name": "Diadochos Greatsword",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39637,
+        "name": "Diadochos Revolver",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39638,
+        "name": "Diadochos Cane",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39639,
+        "name": "Diadochos Rod",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39640,
+        "name": "Diadochos Index",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39641,
+        "name": "Diadochos Codex",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39642,
+        "name": "Diadochos Planisphere",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39643,
+        "name": "Diadochos Blade",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39644,
+        "name": "Diadochos Smallsword",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39645,
+        "name": "Diadochos Gunblade",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39646,
+        "name": "Diadochos Chakrams",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39647,
+        "name": "Diadochos Wings",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39648,
+        "name": "Diadochos Zaghnal",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39649,
+        "name": "Diadochos Shield",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39650,
+        "name": "Diadochos Headband of Fending",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39651,
+        "name": "Diadochos Jacket of Fending",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39652,
+        "name": "Diadochos Halfgloves of Fending",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39653,
+        "name": "Diadochos Poleyns of Fending",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39654,
+        "name": "Diadochos Boots of Fending",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39655,
+        "name": "Diadochos Headband of Maiming",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39656,
+        "name": "Diadochos Jacket of Maiming",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39657,
+        "name": "Diadochos Halfgloves of Maiming",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39658,
+        "name": "Diadochos Poleyns of Maiming",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39659,
+        "name": "Diadochos Boots of Maiming",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39660,
+        "name": "Diadochos Headband of Striking",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39661,
+        "name": "Diadochos Jacket of Striking",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39662,
+        "name": "Diadochos Gloves of Striking",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39663,
+        "name": "Diadochos Bottoms of Striking",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39664,
+        "name": "Diadochos Shoes of Striking",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39665,
+        "name": "Diadochos Headband of Aiming",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39666,
+        "name": "Diadochos Jacket of Aiming",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39667,
+        "name": "Diadochos Halfgloves of Aiming",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39668,
+        "name": "Diadochos Poleyns of Aiming",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39669,
+        "name": "Diadochos Boots of Aiming",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39670,
+        "name": "Diadochos Headband of Scouting",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39671,
+        "name": "Diadochos Jacket of Scouting",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39672,
+        "name": "Diadochos Gloves of Scouting",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39673,
+        "name": "Diadochos Bottoms of Scouting",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39674,
+        "name": "Diadochos Shoes of Scouting",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39675,
+        "name": "Diadochos Beret of Healing",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39676,
+        "name": "Diadochos Coat of Healing",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39677,
+        "name": "Diadochos Armlets of Healing",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39678,
+        "name": "Diadochos Bottoms of Healing",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39679,
+        "name": "Diadochos Boots of Healing",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39680,
+        "name": "Diadochos Beret of Casting",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39681,
+        "name": "Diadochos Coat of Casting",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39682,
+        "name": "Diadochos Armlets of Casting",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39683,
+        "name": "Diadochos Bottoms of Casting",
+        "tokensNQ": 5,
+        "tokensHQ": 17
+      },
+      {
+        "itemID": 39684,
+        "name": "Diadochos Boots of Casting",
+        "tokensNQ": 3,
+        "tokensHQ": 11
+      },
+      {
+        "itemID": 39685,
+        "name": "Diadochos Earring of Fending",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39686,
+        "name": "Diadochos Earring of Slaying",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39687,
+        "name": "Diadochos Earring of Aiming",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39688,
+        "name": "Diadochos Earring of Healing",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39689,
+        "name": "Diadochos Earring of Casting",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39690,
+        "name": "Diadochos Choker of Fending",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39691,
+        "name": "Diadochos Choker of Slaying",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39692,
+        "name": "Diadochos Choker of Aiming",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39693,
+        "name": "Diadochos Choker of Healing",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39694,
+        "name": "Diadochos Choker of Casting",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39695,
+        "name": "Diadochos Wristband of Fending",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39696,
+        "name": "Diadochos Wristband of Slaying",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39697,
+        "name": "Diadochos Wristband of Aiming",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39698,
+        "name": "Diadochos Wristband of Healing",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39699,
+        "name": "Diadochos Wristband of Casting",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39700,
+        "name": "Diadochos Ring of Fending",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39701,
+        "name": "Diadochos Ring of Slaying",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39702,
+        "name": "Diadochos Ring of Aiming",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39703,
+        "name": "Diadochos Ring of Healing",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      },
+      {
+        "itemID": 39704,
+        "name": "Diadochos Ring of Casting",
+        "tokensNQ": 2,
+        "tokensHQ": 7
+      }
+    ]
+  },
+  {
+    "title": "empty test preset",
+    "items": []
+  }
+]
