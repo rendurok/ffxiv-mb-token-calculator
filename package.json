@@ -1,7 +1,7 @@
 {
   "name": "ffxiv-mb-token-calculator",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "Zlib",
   "homepage": "https://rendurok.github.io/ffxiv-mb-token-calculator/",
   "type": "module",
