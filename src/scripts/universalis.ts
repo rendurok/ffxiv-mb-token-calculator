@@ -43,3 +43,45 @@ export async function getListings(itemIds: number[], region: string) {
       )
     );
 }
+
+type UniversalisDCData = {
+  name: string;
+  region: string;
+  worlds: number[];
+};
+
+type UniversalisWorldData = {
+  id: number;
+  name: string;
+};
+
+export async function getRegions(): Promise<Region[]> {
+  return Promise.all([
+    axios.get(`${baseUrl}/data-centers`),
+    axios.get(`${baseUrl}/worlds`),
+  ]).then(([resDC, resWorld]) => {
+    let regionMap = new Map<string, { name: string; worlds: string[] }[]>();
+    const worldMap = new Map<number, string>(
+      (<UniversalisWorldData[]>resWorld.data).map(({ id, name }) => [id, name])
+    );
+
+    (<UniversalisDCData[]>resDC.data).forEach(({ name, region, worlds }) => {
+      const DCobj = {
+        name,
+        worlds: worlds.map((id) => worldMap.get(id) || 'error'),
+      };
+      const regionObj = regionMap.get(region);
+      if (!regionObj) {
+        regionMap.set(region, [DCobj]);
+        return;
+      }
+
+      regionObj.push(DCobj);
+    });
+
+    return [...regionMap.entries()].map(([name, datacenters]) => ({
+      name,
+      datacenters,
+    }));
+  });
+}
