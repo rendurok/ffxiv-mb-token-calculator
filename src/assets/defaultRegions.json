@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Europe",
+    "datacenters": [
+      {
+        "name": "Chaos",
+        "worlds": []
+      },
+      {
+        "name": "Light",
+        "worlds": []
+      },
+      {
+        "name": "Shadow",
+        "worlds": []
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "datacenters": [
+      {
+        "name": "Elemental",
+        "worlds": []
+      },
+      {
+        "name": "Gaia",
+        "worlds": []
+      },
+      {
+        "name": "Mana",
+        "worlds": []
+      },
+      {
+        "name": "Meteor",
+        "worlds": []
+      }
+    ]
+  },
+  {
+    "name": "North-America",
+    "datacenters": [
+      {
+        "name": "Aether",
+        "worlds": []
+      },
+      {
+        "name": "Crystal",
+        "worlds": []
+      },
+      {
+        "name": "Dynamis",
+        "worlds": []
+      },
+      {
+        "name": "Primal",
+        "worlds": []
+      }
+    ]
+  },
+  {
+    "name": "中国",
+    "datacenters": [
+      {
+        "name": "陆行鸟",
+        "worlds": []
+      },
+      {
+        "name": "莫古力",
+        "worlds": []
+      },
+      {
+        "name": "猫小胖",
+        "worlds": []
+      },
+      {
+        "name": "豆豆柴",
+        "worlds": []
+      }
+    ]
+  },
+  {
+    "name": "한국",
+    "datacenters": [
+      {
+        "name": "한국",
+        "worlds": []
+      }
+    ]
+  }
+]

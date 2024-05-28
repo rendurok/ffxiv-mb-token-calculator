@@ -38,3 +38,11 @@ type ValidationResult = {
   message: string;
   multiple?: boolean;
 };
+
+type Region = {
+  name: string;
+  datacenters: {
+    name: string;
+    worlds: string[];
+  }[];
+};
